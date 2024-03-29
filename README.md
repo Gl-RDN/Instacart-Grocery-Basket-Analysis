@@ -1,4 +1,4 @@
-**Project Overview: Instacart Grocery Basket Analysis**
+# **Project Overview: Instacart Grocery Basket Analysis**
 
 ## **Objective:**
 Conduct an initial data and exploratory analysis of Instacart's customer data to uncover insights and recommend strategies for better segmentation and targeted marketing campaigns.
