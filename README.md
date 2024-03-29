@@ -17,12 +17,8 @@ Conduct an initial data and exploratory analysis of Instacart's customer data to
 
 ## **Data Sources:**
 Utilize open-source data sets from Instacart, including customer data and a data dictionary. 
-Data citation: "The Instacart Online Grocery Shopping Dataset 2017."
- Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <date>.
-![image](https://github.com/Gl-RDN/Instacart-Grocery-Basket-Analysis/assets/124837500/ec66b48e-15ad-405d-a818-b972c6447f30)
-Note: Instacart is a real company that’s made their data available online. However, some of customer data and prices were fabricated
-![image](https://github.com/Gl-RDN/Instacart-Grocery-Basket-Analysis/assets/124837500/1d98afda-6a5d-47c2-ad19-b51d7d63e479)
 
-
-
-**Note:** The project brief is a fictional creation for educational purposes, utilizing data from the Instacart Online Grocery Shopping Dataset 2017.
+Data citation: 
+"The Instacart Online Grocery Shopping Dataset 2017."
+Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on February 2024.
+Note: Instacart is a real company that’s made their data available online. However, some of customer data and prices were fabricated for educational puposes.
